@@ -10,4 +10,4 @@ commentBody: |
   how to get involved.
 
 # Whether to add a label to the closed PR.
-addLabel: false
+addLabel: true
